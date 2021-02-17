@@ -1,9 +1,8 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 /* @font-face */ 
 
 @font-face{
-    font-family: "Roboto";
-    src: '../fonts/Roboto/Roboto-Regular.ttf';
+    font-family: 'Montserrat', sans-serif;
 }
 
