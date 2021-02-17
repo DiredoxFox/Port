@@ -21,7 +21,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 500 15px/2px 'Montserrat';
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
