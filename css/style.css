@@ -21,7 +21,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 500 15px/2px var(--'Montserrat');
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -220,7 +220,7 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px var(--roboto);
+    font: normal 500 16px/130px;
     text-transform: uppercase;
 }
 
@@ -261,7 +261,7 @@
 }
 
 .site-main .about-area .client .about-client h4{
-    font: normal 500 21px/ 20px var(--roboto);
+    font: normal 500 21px/ 20px);
 }
 
 .site-main .about-area .client .about-client p{
@@ -308,7 +308,7 @@
     border: 1px solid whitesmoke;
     background: transparent;
     color: white;
-    font: normal 500 17px/20px var(--roboto);
+    font: normal 500 17px/20px;
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
