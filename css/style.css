@@ -1,6 +1,7 @@
 
 /* import fonts from fonts.css file */ 
 @import url(./fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
 /* css variables */ 
@@ -21,7 +22,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 500 15px/2px 'Montserrat';
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -90,7 +91,7 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 49px/ 60px var(--roboto);
+    font: normal bold 49px/ 60px 'Montserrat';
     letter-spacing: 21px;
 }
 
@@ -220,7 +221,7 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px var(--roboto);
+    font: normal 500 16px/130px;
     text-transform: uppercase;
 }
 
@@ -261,7 +262,7 @@
 }
 
 .site-main .about-area .client .about-client h4{
-    font: normal 500 21px/ 20px var(--roboto);
+    font: normal 500 21px/ 20px);
 }
 
 .site-main .about-area .client .about-client p{
@@ -308,7 +309,7 @@
     border: 1px solid whitesmoke;
     background: transparent;
     color: white;
-    font: normal 500 17px/20px var(--roboto);
+    font: normal 500 17px/20px;
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
